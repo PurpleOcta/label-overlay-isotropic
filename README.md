@@ -31,4 +31,4 @@ Run the example:
 python recipe.py
 ```
 
-This generates a square image overlaid with labels (`overlay.png`).
+This downloads the template and generates a square image overlaid with gray- and white-matter labels (`overlay.png`).
