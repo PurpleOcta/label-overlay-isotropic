@@ -1,9 +1,10 @@
 # Label-map overlap for isotropic medical images
 
-<img alt="Label-map overlay" src="overlay.svg" width="800">
-
 This Python example overlays a medical-image slice with a transparent label map derived from tissue probability maps in NIfTI files.
 The example assumes isotropic voxel spacing and extracts slices from the ICBM 152 2009a Nonlinear Symmetric [template](https://nist.mni.mcgill.ca/icbm-152-nonlinear-atlases-2009/).
+
+
+<img alt="Label-map overlay" src="overlay.svg" width="800">
 
 
 ## Scope of the example
